@@ -1,0 +1,139 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch doWhile",
+            "request": "launch",
+            "mainClass": "javaLearning.moduleTwo.doWhile",
+            "projectName": "Java_edbee43d"
+        },
+        {
+            "type": "java",
+            "name": "Launch forLoop",
+            "request": "launch",
+            "mainClass": "javaLearning.moduleTwo.forLoop",
+            "projectName": "Java_edbee43d"
+        },
+        {
+            "type": "java",
+            "name": "Launch starter",
+            "request": "launch",
+            "mainClass": "javaLearning.moduleOne.starter",
+            "projectName": "Java_edbee43d"
+        },
+        {
+            "type": "java",
+            "name": "Launch string",
+            "request": "launch",
+            "mainClass": "javaLearning.moduleOne.string",
+            "projectName": "Java_edbee43d"
+        },
+        {
+            "type": "java",
+            "name": "Launch assignmentOperator",
+            "request": "launch",
+            "mainClass": "javaLearning.moduleOne.assignmentOperator",
+            "projectName": "Java_edbee43d"
+        },
+        {
+            "type": "java",
+            "name": "Launch primitiveOperators",
+            "request": "launch",
+            "mainClass": "javaLearning.moduleOne.primitiveOperators",
+            "projectName": "Java_edbee43d"
+        },
+        {
+            "type": "java",
+            "name": "Launch userInput",
+            "request": "launch",
+            "mainClass": "javaLearning.moduleOne.userInput",
+            "projectName": "Java_edbee43d"
+        },
+        {
+            "type": "java",
+            "name": "Launch whileLoop",
+            "request": "launch",
+            "mainClass": "javaLearning.moduleTwo.whileLoop",
+            "projectName": "Java_edbee43d"
+        },
+        {
+            "type": "java",
+            "name": "Launch switchSpecials",
+            "request": "launch",
+            "mainClass": "javaLearning.moduleTwo.switchSpecials",
+            "projectName": "Java_edbee43d"
+        },
+        {
+            "type": "java",
+            "name": "Launch logicalOr",
+            "request": "launch",
+            "mainClass": "javaLearning.moduleTwo.logicalOr",
+            "projectName": "Java_edbee43d"
+        },
+        {
+            "type": "java",
+            "name": "Launch logical",
+            "request": "launch",
+            "mainClass": "javaLearning.moduleTwo.logical",
+            "projectName": "Java_edbee43d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifElse",
+            "request": "launch",
+            "mainClass": "javaLearning.moduleTwo.ifElse",
+            "projectName": "Java_edbee43d"
+        },
+        {
+            "type": "java",
+            "name": "Launch conditional",
+            "request": "launch",
+            "mainClass": "javaLearning.moduleTwo.conditional",
+            "projectName": "Java_edbee43d"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch starter",
+            "request": "launch",
+            "mainClass": "starter",
+            "projectName": "Java_edbee43d"
+        }
+    ]
+}
